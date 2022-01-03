@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Henry Idle",
+	"idle_anim": "henry idle",
+	"position": [
+		80,
+		165
+	],
+	"scale": 0.55,
+	"image": "Menu_Henry"
+}
